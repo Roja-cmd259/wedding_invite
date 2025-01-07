@@ -1,0 +1,69 @@
+  
+        body {
+            font-family:  serif;
+            font-size: 18px;
+            background-image: url('images.jpg'); 
+           /* background-image: url('download.jpg'); */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+          
+            
+        }
+        .invitation {
+            max-width: 700px;
+            margin: 50px auto;
+            padding: 30px;
+            /*background-color: rgba(255, 255, 255, 0.9); */
+            /*background-image: url('download.jpg');  */
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+       
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+        .invitation h1 {
+            font-size: 40px;
+            color:white;
+            font-family:  cursive;
+           
+        }
+        .invitation p {
+            margin: 15px 0;
+            font-size: 18px;
+             color: brown;
+        }
+        .invitation .details {
+            font-size: 22px;
+            font-weight: bold;
+            color: black;
+            margin-top: 20px;
+        }
+        .invitation img {
+            margin-top: 20px;
+            width: 250px;
+            border-radius: 70%;
+            border: 3px solid #d4af37;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 25px;
+            color:red;
+          }
+         
+        .center-button {
+  position: absolute;
+  top: 50%;
+ 
+ 
+}
+
+.button {
+ 
+  color: blueviolet;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+    
